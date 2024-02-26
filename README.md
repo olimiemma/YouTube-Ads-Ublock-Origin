@@ -1,2 +1,2 @@
 Click on the "Script" File.
-and Just copy it, thats all.
+and Just copy whats there, thats all.
